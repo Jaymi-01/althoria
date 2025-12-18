@@ -1,0 +1,17 @@
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\althoria.csproj.AssemblyReference.cache
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\althoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\althoria.AssemblyInfoInputs.cache
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\althoria.AssemblyInfo.cs
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\althoria.csproj.CoreCompileInputs.cache
+C:\Users\Jaymi\source\repos\althoria\bin\Debug\net8.0\althoria.exe
+C:\Users\Jaymi\source\repos\althoria\bin\Debug\net8.0\althoria.deps.json
+C:\Users\Jaymi\source\repos\althoria\bin\Debug\net8.0\althoria.runtimeconfig.json
+C:\Users\Jaymi\source\repos\althoria\bin\Debug\net8.0\althoria.dll
+C:\Users\Jaymi\source\repos\althoria\bin\Debug\net8.0\althoria.pdb
+C:\Users\Jaymi\source\repos\althoria\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\althoria.csproj.Up2Date
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\althoria.dll
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\refint\althoria.dll
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\althoria.pdb
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\althoria.genruntimeconfig.cache
+C:\Users\Jaymi\source\repos\althoria\obj\Debug\net8.0\ref\althoria.dll

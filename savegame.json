@@ -1,0 +1,27 @@
+{
+  "Name": "Jaymi",
+  "Class": "Mage",
+  "Level": 1,
+  "CurrentHealth": 80,
+  "MaxHealth": 80,
+  "Mana": 80,
+  "MaxMana": 80,
+  "Attack": 10,
+  "Defense": 5,
+  "Experience": 0,
+  "ExperienceToNextLevel": 100,
+  "Gold": 50,
+  "Inventory": [],
+  "Skills": [
+    {
+      "Name": "Fireball",
+      "Description": "A fiery projectile.",
+      "Damage": 25,
+      "ManaCost": 15
+    }
+  ],
+  "EquippedWeapon": null,
+  "EquippedArmor": null,
+  "PositionX": 0,
+  "PositionY": 0
+}
