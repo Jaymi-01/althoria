@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("althoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a8b9d0b93548b4674849300d86c86c1ae56aa5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("althoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("althoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
